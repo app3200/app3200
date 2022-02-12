@@ -5,6 +5,6 @@ I am an aspiring full stack web debeloper, passionate about MERN stack.
 
 
 
-[![linkedin](https://img.icons8.com/material-sharp/24/000000/linkedin--v2.png)][1]
+[![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)][1]
 
 [1]: http://www.linkedin.com/in/app3200
