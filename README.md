@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Aditya Prasad Pattanaik
 
-I am an aspiring full stack web debeloper, passionate about MERN stack.
+I am an aspiring full stack web debeloper, passionate about MERN stack. Currently learning React Js.
+
+-Skills:
+https://img.icons8.com/color/48/000000/html-5--v1.png
 
 
 
