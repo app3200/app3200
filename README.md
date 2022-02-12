@@ -18,13 +18,5 @@ Let's Have a talk:
 [Aditya](mailto:appattanaik3200@gmail.com?)
 
 [![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)][1]
+
 [1]:http://www.linkedin.com/in/app3200
-
-
-
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][3]
-[3]:http://github.com
-
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
