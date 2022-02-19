@@ -15,7 +15,7 @@ I am an aspiring full stack web debeloper, passionate about MERN stack. Currentl
 
 Let's Have a talk:
 
-[Aditya](mailto:appattanaik3200@gmail.com?)
+email: [Aditya](mailto:appattanaik3200@gmail.com?)
 
 [![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)][1]
 
