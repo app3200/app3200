@@ -37,8 +37,9 @@
 <ul>
   <li>🎮 Gaming</li>
   <li>🍥 Anime</li>
+  <li>📱 Electronics</li>
   <li>🎥 Movies</li>
-  <li>v Badminton</li>
+  <li>🏸 Badminton</li>
 </ul>
 
 
